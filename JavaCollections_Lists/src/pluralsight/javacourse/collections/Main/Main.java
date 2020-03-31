@@ -1,11 +1,9 @@
 package pluralsight.javacourse.collections.Main;
 
+import pluralsight.javacourse.collections.Classes.Ports;
 import pluralsight.javacourse.collections.Classes.Product;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class Main {
 
@@ -49,6 +47,85 @@ public class Main {
         Product door = new Product("Wooden Door",35);
         Product floorPanel = new Product("Floor Panel",25);
         Product window = new Product("Window",10);
+
+        Ports CT = new Ports("Constanta",19,true);
+        Ports TL = new Ports("Tulcea",10,true);
+        Ports MM = new Ports("MareaMediteraneana",30,false);
+        Ports MN = new Ports("MareaNeagra",10,false);
+
+        Collection<Ports> ports = new ArrayList<>();
+        ports.add(CT);
+        ports.add(TL);
+        ports.add(MM);
+
+
+
+        //Printing ports with free space
+
+        System.out.println("Ports with free space:");
+        for(Ports port:ports) {
+            if(port.isFree == true) {
+                System.out.println(port.toString());
+            }
+        }
+
+        System.out.println();
+        System.out.println("Ports Full:");
+
+        //Removing ports from the list with free space and printing without free
+        final Iterator<Ports> portsIterator = ports.iterator();
+
+        while(portsIterator.hasNext()) {
+                Ports port = portsIterator.next();
+                if(port.isFree == true) {
+                    portsIterator.remove();
+                } else {
+                    System.out.println(port);
+                }
+        }
+
+        System.out.println();
+        System.out.println("Ports:");
+        //Printing all the ports
+        for(Ports port:ports) {
+                System.out.println(port.toString());
+        }
+
+
+        Collection<Ports> anotherPorts = new ArrayList<>();
+        anotherPorts.add(CT);
+        anotherPorts.add(TL);
+        anotherPorts.add(MM);
+
+
+        List<Ports> anotherListPorts = new ArrayList<>();
+        anotherListPorts.add(CT);
+        anotherListPorts.add(TL);
+        anotherListPorts.add(MM);
+        anotherListPorts.add(MN);
+//        Collections.sort(anotherListPorts);
+
+        anotherListPorts.sort(new Comparator<Ports>() {
+            @Override
+            public int compare(Ports o1, Ports o2) {
+                int nameCompare = o1.getName().compareTo(o2.getName());
+                int noShipsCOmpare = Integer.compare(o1.getNoShips(), o2.getNoShips());
+
+                if (noShipsCOmpare == 0) {
+                    return nameCompare;
+                } else {
+                    return noShipsCOmpare;
+                }
+            }
+        });
+
+        Collections.sort(anotherListPorts);
+
+        System.out.println();
+        System.out.println("Ports sorted by numbers of ships:");
+        for(Ports port : anotherListPorts) {
+            System.out.println(port.toString());
+        }
 
         Collection<Product> products = new ArrayList<Product>();
         products.add(door);
