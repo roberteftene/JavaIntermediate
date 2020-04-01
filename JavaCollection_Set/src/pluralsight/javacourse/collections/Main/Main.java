@@ -43,6 +43,8 @@ public class Main {
         System.out.println(products);
     }
 
+    public static List<Product> products = new ArrayList<>();
+
     public static void main(String[] args) {
         Product door = new Product("Wooden Door",35);
         Product floorPanel = new Product("Floor Panel",25);
@@ -57,9 +59,25 @@ public class Main {
         ports.add(CT);
         ports.add(TL);
         ports.add(MM);
+        InfoPorts(CT, TL, MM, MN, ports);
+
+
+        Collection<Product> products = getProducts();
+        products.add(door);
+        products.add(floorPanel);
+        products.add(window);
 
 
 
+    }
+
+
+
+    private static Collection<Product> getProducts() {
+        return new ArrayList<Product>();
+    }
+
+    private static void InfoPorts(Ports CT, Ports TL, Ports MM, Ports MN, Collection<Ports> ports) {
         //Printing ports with free space
 
         System.out.println("Ports with free space:");
@@ -76,19 +94,19 @@ public class Main {
         final Iterator<Ports> portsIterator = ports.iterator();
 
         while(portsIterator.hasNext()) {
-                Ports port = portsIterator.next();
-                if(port.isFree == true) {
-                    portsIterator.remove();
-                } else {
-                    System.out.println(port);
-                }
+            Ports port = portsIterator.next();
+            if(port.isFree == true) {
+                portsIterator.remove();
+            } else {
+                System.out.println(port);
+            }
         }
 
         System.out.println();
         System.out.println("Ports:");
         //Printing all the ports
         for(Ports port:ports) {
-                System.out.println(port.toString());
+            System.out.println(port.toString());
         }
 
 
@@ -127,12 +145,5 @@ public class Main {
         for(Ports port : anotherListPorts) {
             System.out.println(port.toString());
         }
-
-        Collection<Product> products = new ArrayList<Product>();
-        products.add(door);
-        products.add(floorPanel);
-        products.add(window);
-
-
     }
 }

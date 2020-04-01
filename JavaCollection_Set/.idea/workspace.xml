@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29054add-30ce-4fb5-b158-547ae92742d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwsKDbZkgljwDj9m2cFkZMciib" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29054add-30ce-4fb5-b158-547ae92742d0" name="Default Changelist" comment="" />
+      <created>1585761424380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585761424380</updated>
+      <workItem from="1585761428613" duration="5316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1585761846767">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1585761846767" />
+    <state x="584" y="366" key="ReplaceDuplicatesPrompt" timestamp="1585762310940">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="584" y="366" key="ReplaceDuplicatesPrompt/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1585762310940" />
+    <state x="499" y="188" width="538" height="495" key="extract.method.dialog" timestamp="1585762297935">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="188" width="538" height="495" key="extract.method.dialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1585762297935" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585767650085">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1585767650085" />
+  </component>
+</project>
