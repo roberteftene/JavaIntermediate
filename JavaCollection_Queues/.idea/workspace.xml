@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166d8f4a-a360-4a82-8b8c-6995626a7527" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4j902jB4RlzYXbRIuKeHysaZo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.collections.classes.Calculator" />
+      <module name="JavaCollection_Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.collections.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoriseHelpDesk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.collections.classes.CategoriseHelpDesk" />
+      <module name="JavaCollection_Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.collections.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelpDesk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.collections.classes.HelpDesk" />
+      <module name="JavaCollection_Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.collections.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityHelpDesk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.collections.classes.PriorityHelpDesk" />
+      <module name="JavaCollection_Queues" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.collections.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.PriorityHelpDesk" />
+        <item itemvalue="Application.CategoriseHelpDesk" />
+        <item itemvalue="Application.HelpDesk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166d8f4a-a360-4a82-8b8c-6995626a7527" name="Default Changelist" comment="" />
+      <created>1586001604342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586001604342</updated>
+      <workItem from="1586001612627" duration="6915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1586005601094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586005601094" />
+    <state width="1492" height="236" key="GridCell.Tab.0.bottom" timestamp="1586010373572">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="236" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586010373572" />
+    <state width="1492" height="236" key="GridCell.Tab.0.center" timestamp="1586010373572">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="236" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586010373572" />
+    <state width="1492" height="236" key="GridCell.Tab.0.left" timestamp="1586010373572">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="236" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586010373572" />
+    <state width="1492" height="236" key="GridCell.Tab.0.right" timestamp="1586010373572">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="236" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586010373572" />
+    <state x="584" y="366" key="ReplaceDuplicatesPrompt" timestamp="1586004314455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="584" y="366" key="ReplaceDuplicatesPrompt/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586004314455" />
+    <state x="499" y="188" width="538" height="495" key="extract.method.dialog" timestamp="1586004297875">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="188" width="538" height="495" key="extract.method.dialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586004297875" />
+  </component>
+</project>

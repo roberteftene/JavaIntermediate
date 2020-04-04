@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29054add-30ce-4fb5-b158-547ae92742d0" name="Default Changelist" comment="" />
+    <list default="true" id="29054add-30ce-4fb5-b158-547ae92742d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZwsKDbZkgljwDj9m2cFkZMciib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +29,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,6 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585761424380</updated>
       <workItem from="1585761428613" duration="5316000" />
+      <workItem from="1585852812056" duration="1769000" />
+      <workItem from="1586001531715" duration="50000" />
     </task>
     <servers />
   </component>
@@ -52,10 +63,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="584" y="366" key="ReplaceDuplicatesPrompt/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1585762310940" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586001534829">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586001534829" />
     <state x="499" y="188" width="538" height="495" key="extract.method.dialog" timestamp="1585762297935">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="188" width="538" height="495" key="extract.method.dialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1585762297935" />
+    <state x="209" y="53" key="new project wizard" timestamp="1586001603660">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586001603660" />
     <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585767650085">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
