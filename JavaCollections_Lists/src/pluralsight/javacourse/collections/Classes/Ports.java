@@ -6,7 +6,7 @@ public class Ports implements Comparable<Ports>{
     public int noShips;
     public boolean isFree;
 
-    private static final int MAXIMUM_NUMBER_SHIPS = 30;
+    private static final int MAXIMUM_NUMBER_SHIPS = 35;
 
     public Ports(String name, int noShips, boolean isFree) {
         this.name = name;
