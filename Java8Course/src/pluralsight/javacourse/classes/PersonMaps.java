@@ -1,8 +1,6 @@
 package pluralsight.javacourse.classes;
 
-import java.util.stream.Stream;
-
-public class Person {
+public class PersonMaps {
 
     private String name;
 
@@ -10,14 +8,9 @@ public class Person {
 
     private String gender;
 
-    public Person() {}
+    public PersonMaps() {}
 
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
-
-    public Person(String name, int age, String gender) {
+    public PersonMaps(String name, int age, String gender) {
         this.name = name;
         this.age = age;
         this.gender = gender;
@@ -44,13 +37,12 @@ public class Person {
     }
 
 
-
-
     @Override
     public String toString() {
-        return "Person{" +
+        return "PersonMaps{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
+                ", gender='" + gender + '\'' +
                 '}';
     }
 }

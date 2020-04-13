@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1beab3db-cf63-494b-b1cc-376909ca1456" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pluralsight/javacourse/classes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pluralsight/javacourse/classes/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +30,36 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pluralsight/javacourse/main" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Robert\IdeaProjects\JavaIntermediate\Java8Course\src\pluralsight\javacourse\main" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pluralsight.javacourse.main.classes" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robert\IdeaProjects\JavaIntermediate\Java8Course\src\pluralsight\javacourse\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pluralsight.javacourse.classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Robert\IdeaProjects\JavaIntermediate\Java8Course\src\pluralsight\javacourse\main" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.CollectorsExample">
+  <component name="RunManager" selected="Application.MergingMaps">
+    <configuration name="CollectorTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.CollectorTraining" />
+      <module name="Java8Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.CollectorsExample" />
       <module name="Java8Course" />
@@ -53,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstPredicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.FirstPredicates" />
+    <configuration name="DateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.DateAndTime" />
       <module name="Java8Course" />
       <extension name="coverage">
         <pattern>
@@ -66,21 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.FlatMapExample" />
-      <module name="Java8Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pluralsight.javacourse.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntermediaryAndFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.IntermediaryAndFinal" />
+    <configuration name="MergingMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.MergingMaps" />
       <module name="Java8Course" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergingMaps" />
+        <item itemvalue="Application.DateAndTime" />
+        <item itemvalue="Application.CollectorTraining" />
         <item itemvalue="Application.CollectorsExample" />
         <item itemvalue="Application.ReductionExample" />
-        <item itemvalue="Application.FlatMapExample" />
-        <item itemvalue="Application.IntermediaryAndFinal" />
-        <item itemvalue="Application.FirstPredicates" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +140,7 @@
       <workItem from="1586382436592" duration="2941000" />
       <workItem from="1586416444457" duration="22000" />
       <workItem from="1586724396139" duration="4902000" />
+      <workItem from="1586794128334" duration="9011000" />
     </task>
     <servers />
   </component>
@@ -140,33 +148,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1586727501579">
+    <state x="361" y="91" key="#Auto_Import" timestamp="1586796983784">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586727501579" />
+    <state x="361" y="91" key="#Auto_Import/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586796983784" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1586808303335">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586808303335" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1586416462901">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586416462901" />
-    <state width="1492" height="50" key="GridCell.Tab.0.bottom" timestamp="1586729594746">
+    <state width="1492" height="279" key="GridCell.Tab.0.bottom" timestamp="1586809753174">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="50" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586729594746" />
-    <state width="1492" height="50" key="GridCell.Tab.0.center" timestamp="1586729594742">
+    <state width="1492" height="279" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
+    <state width="1492" height="279" key="GridCell.Tab.0.center" timestamp="1586809753174">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="50" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586729594742" />
-    <state width="1492" height="50" key="GridCell.Tab.0.left" timestamp="1586729594742">
+    <state width="1492" height="279" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
+    <state width="1492" height="279" key="GridCell.Tab.0.left" timestamp="1586809753174">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="50" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586729594742" />
-    <state width="1492" height="50" key="GridCell.Tab.0.right" timestamp="1586729594744">
+    <state width="1492" height="279" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
+    <state width="1492" height="279" key="GridCell.Tab.0.right" timestamp="1586809753174">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="50" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586729594744" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586416443339">
+    <state width="1492" height="279" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586794135174">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586416443339" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586794135174" />
   </component>
 </project>
