@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1beab3db-cf63-494b-b1cc-376909ca1456" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pluralsight/javacourse/classes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pluralsight/javacourse/classes/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="XML File" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -46,22 +47,9 @@
       <recent name="C:\Users\Robert\IdeaProjects\JavaIntermediate\Java8Course\src\pluralsight\javacourse\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergingMaps">
+  <component name="RunManager" selected="Application.FxControllerMain">
     <configuration name="CollectorTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.CollectorTraining" />
-      <module name="Java8Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pluralsight.javacourse.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.CollectorsExample" />
       <module name="Java8Course" />
       <extension name="coverage">
         <pattern>
@@ -86,6 +74,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FirstFXApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.FirstFXApp" />
+      <module name="Java8Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FxControllerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.FxControllerMain" />
+      <module name="Java8Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pluralsight.javacourse.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergingMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.MergingMaps" />
       <module name="Java8Course" />
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReductionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pluralsight.javacourse.main.ReductionExample" />
-      <module name="Java8Course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pluralsight.javacourse.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FxControllerMain" />
+        <item itemvalue="Application.FirstFXApp" />
         <item itemvalue="Application.MergingMaps" />
         <item itemvalue="Application.DateAndTime" />
         <item itemvalue="Application.CollectorTraining" />
-        <item itemvalue="Application.CollectorsExample" />
-        <item itemvalue="Application.ReductionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +142,7 @@
       <workItem from="1586416444457" duration="22000" />
       <workItem from="1586724396139" duration="4902000" />
       <workItem from="1586794128334" duration="9011000" />
+      <workItem from="1586971909501" duration="3309000" />
     </task>
     <servers />
   </component>
@@ -152,33 +154,37 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="91" key="#Auto_Import/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586796983784" />
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1586808303335">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1586974330057">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586808303335" />
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586974330057" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1586416462901">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586416462901" />
-    <state width="1492" height="279" key="GridCell.Tab.0.bottom" timestamp="1586809753174">
+    <state width="1492" height="279" key="GridCell.Tab.0.bottom" timestamp="1586979877682">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="279" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
-    <state width="1492" height="279" key="GridCell.Tab.0.center" timestamp="1586809753174">
+    <state width="1492" height="279" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586979877682" />
+    <state width="1492" height="279" key="GridCell.Tab.0.center" timestamp="1586979877681">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="279" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
-    <state width="1492" height="279" key="GridCell.Tab.0.left" timestamp="1586809753174">
+    <state width="1492" height="279" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586979877681" />
+    <state width="1492" height="279" key="GridCell.Tab.0.left" timestamp="1586979877681">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="279" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
-    <state width="1492" height="279" key="GridCell.Tab.0.right" timestamp="1586809753174">
+    <state width="1492" height="279" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586979877681" />
+    <state width="1492" height="279" key="GridCell.Tab.0.right" timestamp="1586979877682">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1492" height="279" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586809753174" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586794135174">
+    <state width="1492" height="279" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586979877682" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586972486687">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586794135174" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586972486687" />
+    <state x="567" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586973020073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="567" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864/1920.0.1280.720@0.0.1536.864" timestamp="1586973020073" />
   </component>
 </project>
